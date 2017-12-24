@@ -1,0 +1,4 @@
+
+This program provides a generic set for Strings and Integers. The user can instantiate the set, add and remove elements, and sort the elements either by the order they're stored, or by sorted (ascending/descending/alphabetical) order, using the toString() method.
+
+The Set<T> class is built on top of a quad linked list structure, therefore allowing data access in both sorted and queued orders.

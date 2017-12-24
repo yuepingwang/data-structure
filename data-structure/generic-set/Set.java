@@ -227,7 +227,7 @@ public class Set<T>{
     // while (walk != trailer) {
     //   sb.append(walk.getElement());
     //   walk = walk.getNext();
-    //   if (walk != trailer)
+    //   if (walk != header)
     //     sb.append(", ");
     // }
     return sb.toString();
