@@ -1,4 +1,4 @@
-public interface PositionalList<E> implements Position<E>{
+public interface PositionalList<E>{
 	int size();
 	boolean isEmpty();
 
